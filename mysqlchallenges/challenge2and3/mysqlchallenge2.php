@@ -24,12 +24,12 @@
         <div class="button">
           <button type="submit" name="button">Submit</button>
         </div>
-        <div class="list">
-          <ul>
-            
-          </ul>
-        </div>
       </form>
+      <!-- <div class="product_table">
+        <table>
+
+        </table>
+      </div> -->
     </div>
   </body>
 </html>

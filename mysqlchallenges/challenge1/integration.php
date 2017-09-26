@@ -1,5 +1,5 @@
 <?php
-$db = new PDO("mysql:host=localhost;dbname=chamilton;port=8888", "root", "root");
+$db = new PDO("mysql:host=localhost;dbname=chamilton;port=8888", "r2hstudent", "SbFaGzNgGIE8kfP");
 
 try {
     $results = $db->query("SELECT states FROM challenge1");
