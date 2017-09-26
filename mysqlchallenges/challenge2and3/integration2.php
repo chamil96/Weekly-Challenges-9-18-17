@@ -1,5 +1,5 @@
 <?php
-$db = new PDO("mysql:host=localhost;dbname=chamilton;port=8888", "r2hstudent", "SbFaGzNgGIE8kfP");
+$db = new PDO("mysql:host=localhost;dbname=chamilton;port=8888", "root", "root");
 
 try {
     $results = $db->query("SELECT color FROM products");
